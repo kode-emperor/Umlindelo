@@ -1,0 +1,5 @@
+When an exception  is thrown the ui crashes 
+This happened when using the DateTimeFormatting functionality which 
+Broke the app as a result of a malformed date according to the formatter spec.
+
+For production and serious development this app will have to use exception handling techniques to avoid unnecessary headaches and crashes of the app

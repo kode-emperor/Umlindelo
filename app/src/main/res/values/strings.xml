@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Umlindelo</string>
+    <string name="menu_button">menu button</string>
+    <string name="arrow_indicator">arrow indicator</string>
+    <string name="notifications_icon_button">notifications icon button</string>
+    <string name="search_icon">search icon</string>
+    <string name="filter_icon">filter icon</string>
+    <string name="upcoming_event_title">Upcoming Events</string>
+    <string name="conference">Cpp Conference</string>
+    <string name="revelations_church_in_zion">Illinois Colorado, Aurora</string>
+    <string name="rev_postcode">NG3 7DN</string>
+    <string name="rev_address">Illinois Colorado, Aurora</string>
+
+    <string name="cumbia_reggaeton">Cumbia Vs Reggaeton: International Live Acts n DJs</string>
+    <string name="cumbia_regatton_start">31/05/2024 09:00</string>
+    <string name="cumbia_regatton_end">01/06/2024 03:00</string>
+</resources>
